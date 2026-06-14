@@ -15,3 +15,6 @@ Some main features of Windows Server 2025 include
 <p>Note: Some services such as Active Directory would have their own dedicated repository while others can be covered in a much smaller context and described in this single main repository.</p>
 
 <h2>System walk-through 🖥️</h2>
+
+<img src = "https://imgur.com/totMALw">
+
